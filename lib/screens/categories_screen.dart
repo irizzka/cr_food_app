@@ -1,3 +1,4 @@
+import 'package:cr_food_app/models/meal.dart';
 import 'package:cr_food_app/screens/widgets/category_item.dart';
 import 'package:cr_food_app/utils/dummy_data.dart';
 import 'package:flutter/material.dart';
